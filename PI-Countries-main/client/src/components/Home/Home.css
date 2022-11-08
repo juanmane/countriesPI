@@ -1,0 +1,13 @@
+.countries {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.inputs {
+    font-size: large;
+    font-weight: bold;
+    /* background: rgb(255, 255, 255, 0.5); */
+    padding-bottom: 10px;
+    /* border-style: groove; */
+    border: none;
+}

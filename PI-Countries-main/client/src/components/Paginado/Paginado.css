@@ -1,0 +1,14 @@
+.paginado li{
+    display: inline;
+    margin-right: 15px;
+    padding: 5px;
+    border-radius: 5px;
+    background: rgb(255, 255, 255, 0.5);
+}
+.number:hover {
+   
+    padding: 10px;
+}
+.pointer {
+    cursor: pointer;
+}

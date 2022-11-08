@@ -1,0 +1,37 @@
+.Country img{
+    width: 200px;
+    height: 120px;
+    border-radius: 5px;
+}
+
+.Country {
+    /* display: flex;
+    justify-content: space-around; */
+    padding: 10px;
+    margin: 25px;
+    
+    /* border-style: solid ; */
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    background: rgb(255, 255, 255, 0.5);
+    /* background-color: rgb(190, 217, 243); */
+    color: black;
+}
+.name {
+    font-size: 1.2rem;
+    font-weight: bolder;
+    color: black;
+}
+.continent {
+    font-size: 1rem;
+}
+
+.name:visited {
+    color: black;
+  }
+.name:hover {
+    color: gray;
+}
+a {
+    text-decoration: none;
+}
